@@ -1,7 +1,7 @@
 const { app, BrowserWindow } = require("electron");
 const path = require('path');
-// 서버 실행 코드
-require("./server/index");
+// 아래 코드로 서버 실행 가능
+// require("./server/index");
 
 let mainWindow;
 
